@@ -4,7 +4,7 @@ Files to download:
 
 [human dataset](https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/lfw.zip) human images,
 
-[VGG-16 bottleneck features](https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/DogVGG16Data.npz) bottleneck features, 
+[VGG-16](https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/DogVGG16Data.npz) bottleneck features, 
 
 [VGG-19](https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/DogVGG19Data.npz) bottleneck features,
 
