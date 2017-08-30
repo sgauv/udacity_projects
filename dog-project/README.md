@@ -1,7 +1,11 @@
-Files to download:
-[dog dataset](https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/dogImages.zip)
-[human dataset](https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/lfw.zip)
-[VGG-16 bottleneck features](https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/DogVGG16Data.npz) 
+Files to download:\n
+[dog dataset](https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/dogImages.zip) dog images\n",
+[human dataset](https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/lfw.zip) human images\n",
+[VGG-16 bottleneck features](https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/DogVGG16Data.npz) bottleneck features\n", 
+[VGG-19](https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/DogVGG19Data.npz) bottleneck features\n",
+[ResNet-50](https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/DogResnet50Data.npz) bottleneck features\n",
+[Inception](https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/DogInceptionV3Data.npz) bottleneck features\n",
+[Xception](https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/DogXceptionData.npz) bottleneck features\n",
 
 [//]: # (Image References)
 
