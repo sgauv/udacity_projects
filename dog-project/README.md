@@ -1,3 +1,8 @@
+Files to download:
+[dog dataset](https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/dogImages.zip)
+[human dataset](https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/lfw.zip)
+[VGG-16 bottleneck features](https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/DogVGG16Data.npz) 
+
 [//]: # (Image References)
 
 [image1]: ./images/sample_dog_output.png "Sample Output"
