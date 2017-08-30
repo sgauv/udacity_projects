@@ -1,4 +1,4 @@
-Files to download:
+Files and datasets to download to run project:
 
 [dog dataset](https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/dogImages.zip) dog images,
 
